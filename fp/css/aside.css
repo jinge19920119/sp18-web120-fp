@@ -1,0 +1,16 @@
+aside {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+aside > h3 {
+    margin: 10px;
+}
+
+.sidebar {
+    padding: 0;
+}
+
+.sidebar img {
+    max-width: 90%;
+}
